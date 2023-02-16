@@ -17,7 +17,7 @@
 
     [✔️] Callback
     [✔️] Fetch API
-    [] Promises
+    [✔️] Promises
 
 ## Módulo 3
 
