@@ -7,7 +7,7 @@
     - Entendendo o javascript
 
     [✔️] Importando JS no HTML
-    [] Síncrono ou Assíncrono
+    [✔️] Síncrono ou Assíncrono
     [] Event Loop e Call Stack
     [] Task Queue
 
