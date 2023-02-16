@@ -1,10 +1,3 @@
-console.log("Mandando oi ")
+const consultaCEP = fetch('viacep.com.br/ws/01001000/json/')
 
-function mandaMensagem() {
-    console.log("Tudo bem");
-    console.log("Vou te mandar uma solicitação");
-    console.log("Solicitação recebida")
-}
-setTimeout(mandaMensagem, 5000);
-
-console.log("Bye bie")
+console.log(consultaCEP)

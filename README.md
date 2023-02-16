@@ -13,10 +13,11 @@
 
 ## Módulo 2
 
-    -
+    - Aplicando a assíncronicidade
 
-    []
-    []
+    [✔️] Callback
+    [✔️] Fetch API
+    [] Promises
 
 ## Módulo 3
 
