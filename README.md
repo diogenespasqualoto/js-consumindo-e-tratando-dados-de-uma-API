@@ -8,7 +8,7 @@
 
     [✔️] Importando JS no HTML
     [✔️] Síncrono ou Assíncrono
-    [] Event Loop e Call Stack
+    [✔️] Event Loop e Call Stack
     [] Task Queue
 
 ## Módulo 2
