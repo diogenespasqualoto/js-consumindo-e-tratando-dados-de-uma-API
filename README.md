@@ -25,7 +25,7 @@
 
     [✔️] Then e JSON
     [✔️] Tratando erros com catch
-    [] Finaly
+    [✔️] Finaly
 
 ## Módulo 4
 
