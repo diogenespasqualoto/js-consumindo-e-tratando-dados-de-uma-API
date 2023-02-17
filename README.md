@@ -29,11 +29,11 @@
 
 ## Módulo 4
 
-    -
+    - Criando funções assíncronas
 
-    []
-    []
-    []
+    [] Async Await
+    [] Tratamento de erros
+    [] Promise All
 
 ## Módulo 5
 
