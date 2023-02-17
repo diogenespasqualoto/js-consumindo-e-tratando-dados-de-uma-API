@@ -23,8 +23,8 @@
 
     - Aprofundando em promises
 
-    [] Then e JSON
-    [] Tratando erros com catch
+    [✔️] Then e JSON
+    [✔️] Tratando erros com catch
     [] Finaly
 
 ## Módulo 4
