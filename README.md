@@ -41,4 +41,4 @@
 
     [✔️] Consulta dinâmica
     [✔️] Preenchimento automático
-    [] Evitando problemas
+    [✔️] Evitando problemas
