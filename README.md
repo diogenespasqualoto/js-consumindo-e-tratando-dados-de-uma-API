@@ -37,8 +37,8 @@
 
 ## Módulo 5
 
-    -
+    - Manipulando formulários
 
-    []
-    []
-
+    [] Consulta dinâmica
+    [] Preenchimento automático
+    [] Evitando problemas
