@@ -32,7 +32,7 @@
     - Criando funções assíncronas
 
     [✔️] Async Await
-    [] Tratamento de erros
+    [✔️] Tratamento de erros
     [] Promise All
 
 ## Módulo 5
@@ -41,3 +41,4 @@
 
     []
     []
+
