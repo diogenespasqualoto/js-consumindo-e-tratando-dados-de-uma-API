@@ -39,6 +39,6 @@
 
     - Manipulando formulários
 
-    [] Consulta dinâmica
+    [✔️] Consulta dinâmica
     [] Preenchimento automático
     [] Evitando problemas
