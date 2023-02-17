@@ -33,7 +33,7 @@
 
     [✔️] Async Await
     [✔️] Tratamento de erros
-    [] Promise All
+    [✔️] Promise All
 
 ## Módulo 5
 
