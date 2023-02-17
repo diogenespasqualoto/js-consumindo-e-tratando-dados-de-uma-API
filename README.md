@@ -31,7 +31,7 @@
 
     - Criando funções assíncronas
 
-    [] Async Await
+    [✔️] Async Await
     [] Tratamento de erros
     [] Promise All
 
