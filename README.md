@@ -40,5 +40,5 @@
     - Manipulando formulários
 
     [✔️] Consulta dinâmica
-    [] Preenchimento automático
+    [✔️] Preenchimento automático
     [] Evitando problemas
